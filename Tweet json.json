@@ -1,0 +1,17 @@
+{
+	"usuario": [
+	{"nombre": "Alejandro García", "nombre_de_usuario": "@alejandrogaralv", "correo": "alejandrogaralv448@gmail.com", "foto": "perfil.jpg"}
+	],
+	"contenido": "hoy hace sol",
+	"retweets": "14",
+	"me_gusta": "41",
+	"comentarios": [
+	{"comentario": "hace día de playa"},
+	{"comentario": "a ver si no se nubla"},
+	{"comentario": "que suerte, donde vivo yo llueve"}
+	]
+}
+	
+	
+	
+	
